@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "slug": "malacca-strait-naval-escalation",
+    "title": "The Malacca Strait Naval Escalation",
+    "tags": ["security", "trade", "maritime", "us-china"],
+    "scenario_text": "Tensions rise sharply in the Malacca Strait after a United States naval patrol reports being aggressively shadowed by a Chinese frigate near one of the world's busiest shipping corridors. The US claims the Chinese vessel conducted unsafe manoeuvres that endangered nearby commercial ships, while China insists it was lawfully escorting Chinese-flagged merchant vessels through an increasingly militarised region. Within days, China increases the frequency of naval patrols through the strait, citing the need to protect its economic lifelines. Global insurers respond by raising premiums for vessels transiting Southeast Asia, causing immediate disruptions to trade flows into Singapore and neighbouring economies. As a major trading hub whose economy depends on open sea lanes, Singapore's government must now decide how to respond while protecting trade, neutrality, and regional stability.",
+    "actors": {
+      "US": {
+        "name": "United States",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "My fellow Americans, the United States has always stood for open seas and the free flow of commerce. What we are witnessing today is not about rivalry, but about whether any one country can intimidate others and place global trade at risk. Our sailors acted professionally and responsibly, and they will continue to do so. We do not seek conflict, but we will not retreat from our responsibility to uphold international norms that keep the world economy moving and our partners secure."
+        }
+      },
+      "China": {
+        "name": "China",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "People of China, our nation depends on peaceful trade routes for development and prosperity. Yet foreign warships, far from their homeland, are increasing military pressure near our vital shipping lanes. China's navy is acting with restraint and responsibility to protect Chinese vessels and regional stability. We will not provoke trouble, but we will never allow our legitimate interests or our dignity to be threatened."
+        }
+      }
+    }
+  },
+
+  {
+    "id": "2",
+    "slug": "semiconductor-export-shock",
+    "title": "The Semiconductor Export Shock",
+    "tags": ["economy", "technology", "supply-chain", "us-china"],
+    "scenario_text": "The United States announces sweeping new restrictions on the export of advanced semiconductor manufacturing equipment to Chinese firms worldwide, including facilities operating in Singapore and Southeast Asia. Almost overnight, contracts are frozen, production lines slow, and uncertainty spreads across the electronics sector. In response, China restricts exports of rare-earth materials critical for electronics, electric vehicles, and renewable energy. Prices surge globally, and manufacturers across Asia begin layoffs. Singapore-based firms, deeply embedded in both US and Chinese supply chains, face mounting losses. Singapore's government must decide how to balance economic survival, legal obligations, and long-term strategic trust in the midst of escalating economic warfare.",
+    "actors": {
+      "US": {
+        "name": "United States",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "Tonight, I want to speak plainly to the American people. Advanced technology shapes the balance of power in the world, and we have a responsibility to ensure it is not used against our security or our values. These export controls are not meant to harm workers or partners, but to protect our future. We will invest in resilient supply chains and stand by those who share our commitment to responsible innovation."
+        }
+      },
+      "China": {
+        "name": "China",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "Citizens of China, certain countries are abusing their technological advantage to suppress others' development. This is not fair competition; it is economic coercion. China will not be intimidated. We will protect our industries, our workers, and our right to progress. Attempts to block China's development will only strengthen our resolve and accelerate self-reliance."
+        }
+      }
+    }
+  },
+
+  {
+    "id": "3",
+    "slug": "cambodia-garment-supply-strike",
+    "title": "The Cambodia Garment Supply Strike",
+    "tags": ["labour", "ethics", "small-states", "us-china"],
+    "scenario_text": "A wave of strikes sweeps through Cambodia's garment industry as workers protest low wages, unsafe working conditions, and rising living costs. The factories affected supply clothing and consumer goods to major US and Chinese brands, many of which rely on Singapore for financing, logistics, and corporate headquarters. As production halts, global retailers face shortages and rising costs. The United States publicly backs the workers and threatens sanctions against firms linked to labour abuse, while China accuses the US of destabilising Cambodia and offers emergency loans and infrastructure funding. Cambodia finds itself trapped between domestic unrest and intensifying geopolitical pressure, while Singapore's government must decide how to respond as a regional economic hub connected to all sides of the supply chain.",
+    "actors": {
+      "US": {
+        "name": "United States",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "To the American people, our values do not stop at our borders. When workers are exploited so global supply chains can run cheaply, we all bear responsibility. Standing up for basic labour rights is not interference, it is leadership. Economic growth must never come at the cost of human dignity."
+        }
+      },
+      "China": {
+        "name": "China",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "People of China, some countries are using so-called human rights as a tool to interfere in the internal affairs of others. Cambodia's stability matters to the entire region. China believes development, not pressure, is the path to better lives, and we will continue to support our partners without coercion."
+        }
+      },
+      "Cambodia": {
+        "name": "Cambodia",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "My fellow Cambodians, our nation is facing a difficult moment. We hear the voices of our workers and recognise their struggles, but we must also protect our economy and sovereignty. Cambodia will not be a pawn in great power rivalry. We ask for unity and patience as we work toward stability."
+        }
+      }
+    }
+  },
+
+  {
+    "id": "4",
+    "slug": "foreign-fighters-transit-crisis",
+    "title": "The Foreign Fighters Transit Crisis",
+    "tags": ["security", "religion", "race", "counter-terrorism", "us-china"],
+    "scenario_text": "Following a sudden escalation in violence in a Middle Eastern conflict involving a Muslim-majority population, the United States announces that several suspected foreign fighters transited through Southeast Asia before travelling onward to the conflict zone. US officials state that some of these individuals passed through Singapore's airport and financial system, urging partner governments to tighten monitoring of travellers and religious-linked charities. China responds by warning against the securitisation of Islam and accuses Western countries of pressuring multiracial societies to adopt profiling practices that could fracture social cohesion. In Singapore, the issue quickly becomes divisive, with Muslim leaders expressing fear of renewed suspicion while others argue that national security cooperation must take priority. Singapore's government must now decide how to respond, knowing that any choice risks alienating key partners or communities.",
+    "actors": {
+      "US": {
+        "name": "United States",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "My fellow Americans, extremist networks do not respect borders. They exploit openness, global travel, and financial systems to spread violence. Our concern is not with any faith, but with individuals who abuse religion to justify terror. When we ask our partners to strengthen monitoring, it is because security gaps anywhere can cost lives everywhere. These are difficult measures, but protecting our people requires difficult choices."
+        }
+      },
+      "China": {
+        "name": "China",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "People of China, history has shown that when religion is treated as a security threat, societies fracture and trust is destroyed. Collective suspicion of Muslim communities does not create safety - it creates resentment and instability. Some countries are once again exporting fear under the excuse of counter-terrorism. China believes that social harmony, development, and mutual respect are the true foundations of lasting security."
+        }
+      }
+    }
+  },
+
+  {
+    "id": "5",
+    "slug": "university-research-pressure-case",
+    "title": "The University Research Pressure Case",
+    "tags": ["education", "race", "talent", "national-security"],
+    "scenario_text": "A leading Singapore-based university runs advanced research programmes funded jointly by US and Chinese institutions. The United States demands that Chinese researchers be excluded from specific projects involving artificial intelligence and advanced materials, citing national security risks. China responds angrily, accusing the US of racial discrimination. Students and academics, particularly ethnic Chinese researchers, express anxiety about being viewed with suspicion. The controversy spills into public discourse, forcing Singapore's government to decide how to protect academic freedom, racial harmony, and national interests amid intensifying strategic competition.",
+    "actors": {
+      "US": {
+        "name": "United States",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "My fellow Americans, protecting our security does not mean rejecting cooperation, but it does require clear-eyed judgement. Certain technologies can be used to harm as well as help. These decisions are based on risk, not race, and they are essential to keeping our nation safe."
+        }
+      },
+      "China": {
+        "name": "China",
+        "leader_address": {
+          "format": "televised_address",
+          "text": "People of China, targeting Chinese scholars under the excuse of security is unjust and discriminatory. Knowledge belongs to humanity, not to any one country. Attempts to exclude Chinese minds from global progress undermine trust and poison cooperation."
+        }
+      }
+    }
+  }
+]
